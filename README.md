@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JerradDbull
+- 👋 Hi, I’m @JerradP
 - 👀 I’m interested in ... Blockchain Development
 - 🌱 I’m currently learning ... html, c++, javascript, and python
 - 💞️ I’m looking to collaborate on ... Blockchain projects in the future...
